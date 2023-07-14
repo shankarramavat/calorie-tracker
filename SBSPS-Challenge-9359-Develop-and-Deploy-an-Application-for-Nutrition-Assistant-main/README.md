@@ -24,8 +24,6 @@ The instructions to run the project are as follows :
 
 ------------------------           Tutorial Link          --------------------------
 
-Video -> https://www.youtube.com/watch?v=zzaR_ARSKfM&t=15s
-
 
 
 ------------------------              Images              ---------------------------
